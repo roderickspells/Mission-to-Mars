@@ -8,6 +8,17 @@ Utilizing Splinter, BeautifulSoup and Python, I populated a customized webpage w
 
 To make my webpage more appealing to the user, I changed the default background to a light grey and changed the color of each sub-header to dark orange. I also created clickable thumbnails of the four hemispheres that will display a full resolution image in a new window.
 
+### Software and Coding Techniques
+VS Code br\
+Python br\
+HTML br\
+Flask br\
+Flask-PyMongo br\
+MongoDB br\
+BeautifulSoup br\ 
+Splinter br\
+ChromeDriver br\
+Web-Driver Manager
 
 ![image](https://github.com/roderickspells/Mission-to-Mars/blob/main/mars1.png)
 
